@@ -24,7 +24,15 @@ Zusätzlich zu den Commit-Nachrichten könnte ein **Git-Tag** mit derselben Fall
 
 ### Aktualisierte Workflow-Umsetzung:
 
-#### Schritte:
+#### Übersicht
+```bash
+git commit -m "FA-YY-X: commit message."
+git tag FA-YY-X
+git push
+git push --tags
+```
+
+#### Einzelne Schritte:
 1. **Commit mit Fallnummer erstellen**:
    ```bash
    git commit -m "FA-YY-X: Beschreibung der Änderung."
