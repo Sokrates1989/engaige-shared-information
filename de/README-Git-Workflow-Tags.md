@@ -1,11 +1,5 @@
 
-### Verbesserung der Übersichtlichkeit durch Fallnummer und Tags in Git
-
----
-
-**Hallo Stefan,**
-
-um die Übersichtlichkeit in Git zu verbessern, schlage ich folgende Optimierung vor: Du hattest Dir ja eine bessere Nachverfolgung anhand der Kanban-Nummer gewünscht.
+# Verbesserung der Übersichtlichkeit durch Fallnummer und Tags in Git
 
 ---
 
@@ -86,10 +80,3 @@ Falls nur ein einzelnes Tag gepusht werden soll, kann das spezifische Tag expliz
 
 ### Ergebnis:
 Das Ergebnis ist eine klar strukturierte Historie in GitLab/GitHub, in der sowohl Commits als auch Tags die Fallnummer enthalten. Manager und Entwickler profitieren gleichermaßen von der verbesserten Übersichtlichkeit.
-
----
-
-**Ich freue mich auf Dein Feedback oder weitere Vorschläge!**
-
-**Viele Grüße**  
-Patrick

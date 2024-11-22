@@ -1,11 +1,5 @@
 
-**Betreff:** Nutzung von Git-Tags zur schnelleren Nachverfolgung von Änderungen
-
----
-
-**Hallo Stefan,**
-
-um die Übersichtlichkeit und Nachverfolgbarkeit von Änderungen zu verbessern, können Git-Tags als effizientes Werkzeug genutzt werden. Hier eine kurze Anleitung, wie Git-Tags eingesehen und verwendet werden können.
+# Nutzung von Git-Tags zur schnelleren Nachverfolgung von Änderungen
 
 ### Tags anzeigen:
 1. **In GitLab/GitHub:**
@@ -31,11 +25,4 @@ um die Übersichtlichkeit und Nachverfolgbarkeit von Änderungen zu verbessern, 
 2. **Tag auswählen:** Klicken Sie auf ein spezifisches Tag, z. B. `FA-123-45`.
 3. **Änderungen einsehen:** Sie sehen sofort, welche Änderungen (Code, Dateien etc.) mit diesem Fall verknüpft sind, inklusive der Commit-Nachricht.
 
-Dieser Workflow ermöglicht es Ihnen, Änderungen schneller nachzuvollziehen, ohne tief in die Commit-Historie einzusteigen oder Entwickler um zusätzliche Informationen bitten zu müssen.
-
----
-
-**Bei Fragen oder Anregungen stehe ich gern zur Verfügung!**
-
-**Viele Grüße**  
-Patrick
+Dieser Workflow ermöglicht es, Änderungen schneller nachzuvollziehen, ohne tief in die Commit-Historie einzusteigen oder Entwickler um zusätzliche Informationen bitten zu müssen.
